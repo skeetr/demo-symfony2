@@ -57,7 +57,11 @@
         "simplethings/entity-audit-bundle": "dev-master",
         "willdurand/faker-bundle": "dev-master",
 
-        "kriswallsmith/assetic": "1.1.*@dev"
+        "kriswallsmith/assetic": "1.1.*@dev",
+
+        "winks/m2php": "dev-master",
+        "monolog/monolog": "1.4.0",
+        "skeetr/skeetr": "dev-master"
     },
 
     "require-dev": {
